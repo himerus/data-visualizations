@@ -1,0 +1,6 @@
+version: 1.0.0
+widgets:
+  - example-table:
+      title: Sample Title
+      description: Description of the visualization.
+      uri: ""
