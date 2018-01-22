@@ -1,6 +1,22 @@
 version: 1.0.0
 widgets:
-  - example-table:
-      title: Sample Title
-      description: Description of the visualization.
-      uri: ""
+  - other-table:
+      title: "Super Customized Responsive Table"
+      description: "Description of the visualization."
+      uri: "https://himerus.github.io/data-visualizations/table/"
+  - table:
+      title: "Sample Table"
+      description: "Description of the visualization."
+      uri: "https://himerus.github.io/data-visualizations/examples/table/"
+  - graph:
+      title: "Sample D3 Graphic"
+      description: "Description of the visualization."
+      uri: "https://himerus.github.io/data-visualizations/examples/graphic/"
+  - quiz:
+      title: "Custom Sample Quiz"
+      description: "Description of the visualization."
+      uri: "https://himerus.github.io/data-visualizations/examples/quiz/"
+  - markup:
+      title: "Custom Sample Markup"
+      description: "Description of the visualization."
+      uri: "https://himerus.github.io/data-visualizations/examples/markup/"
