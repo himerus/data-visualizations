@@ -1,18 +1,29 @@
-version: 1.0.1
+version: 1.0.0
 widgets:
-  example-table:
-    title: "Sample Table"
-    description: "A sample of a responsive table."
-    uri: "https://himerus.github.io/data-visualizations/examples/table/"
-  example-graph:
-    title: "Sample D3 Graphic"
-    description: "A sample D3 graph that needs to be redrawn on load and resize."
-    uri: "https://himerus.github.io/data-visualizations/examples/graphic/"
-  example-quiz:
-    title: "Custom Sample Quiz"
-    description: "A sample quiz element that requires a manually triggered resize."
-    uri: "https://himerus.github.io/data-visualizations/examples/quiz/"
-  example-markup:
-    title: "Custom Sample Markup"
-    description: "A sample visualization with nothing but simple markup."
-    uri: "https://himerus.github.io/data-visualizations/examples/markup/"
+  examples:
+    example-table:
+      title: "Sample Table"
+      description: "A sample of a responsive table."
+      uri: "https://himerus.github.io/data-visualizations/examples/table/"
+    example-graph:
+      title: "Sample D3 Graphic"
+      description: "A sample D3 graph that needs to be redrawn on load and resize."
+      uri: "https://himerus.github.io/data-visualizations/examples/graphic/"
+    example-quiz:
+      title: "Custom Sample Quiz"
+      description: "A sample quiz element that requires a manually triggered resize."
+      uri: "https://himerus.github.io/data-visualizations/examples/quiz/"
+    example-markup:
+      title: "Custom Sample Markup"
+      description: "A sample visualization with nothing but simple markup."
+      uri: "https://himerus.github.io/data-visualizations/examples/markup/"
+  charts:
+    thing_one:
+      title: "Example Thing One"
+      description: "A sample visualization."
+      uri: "https://himerus.github.io/data-visualizations/examples/quiz"
+  neat-stuff:
+    thing_two:
+      title: "Example Thin Two"
+      description: "A sample visualization."
+      uri: "https://himerus.github.io/data-visualizations/examples/table"
