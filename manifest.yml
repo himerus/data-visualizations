@@ -34,4 +34,4 @@ widgets:
   example-top-level-widget-two:
     title: "Top level widget item TWO"
     description: "A sample widget at the top level."
-    uri: "https://himerus.github.io/data-visualizations/examples/table/"
+    uri: "https://himerus.github.io/data-visualizations/examples/quiz/"
