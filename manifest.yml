@@ -2,7 +2,7 @@ version: 1.0.0
 widgets:
   example-top-level-widget:
     title: "Top level widget item"
-    description: "A sample of a responsive table."
+    description: "A sample widget at the top level."
     uri: "https://himerus.github.io/data-visualizations/examples/table/"
   examples:
     example-table:
@@ -28,10 +28,10 @@ widgets:
       uri: "https://himerus.github.io/data-visualizations/examples/quiz"
   neat-stuff:
     thing_two:
-      title: "Example Thin Two"
+      title: "Example Thing Two"
       description: "A sample visualization."
       uri: "https://himerus.github.io/data-visualizations/examples/table"
-  example-top-level-widget:
+  example-top-level-widget-two:
     title: "Top level widget item TWO"
-    description: "A sample of a responsive table."
+    description: "A sample widget at the top level."
     uri: "https://himerus.github.io/data-visualizations/examples/table/"
